@@ -388,6 +388,10 @@ text-decoration: none;
 }
 
 
+.pictures-photo{
+    display: block;
+}
+
 
 .pictures-item{
 font-family: 'Roboto';
